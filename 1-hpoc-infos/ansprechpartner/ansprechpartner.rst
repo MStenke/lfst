@@ -15,7 +15,7 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
    :widths: 40
    :header-rows: 1
 
-   * - **Martin Stenke**
+   * - **Sven Willholz**
    * - .. figure:: images/SWillholz.png
    * - **Senior Systems Engineer**
    * - Seit Februar 2020 bei Nutanix
