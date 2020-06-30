@@ -39,7 +39,6 @@
   x-citrix/prismops/prismops_capacity_lab_ctx/prismops_capacity_lab
   x-citrix/prismops/prismops_rightsize_ctx_lab/prismops_rightsize_euc_lab
 
-
 .. toctree::
   :maxdepth: 2
   :caption: Anhang Labs
