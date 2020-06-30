@@ -16,10 +16,9 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
    :header-rows: 1
 
    * - **Martin Stenke**
-   * - .. figure:: images/MStenke.png
+   * - .. figure:: images/SWillholz.png
    * - **Senior Systems Engineer**
-   * - Leonberg, Baden-Wuerttemberg
-   * - Seit September 2018 bei Nutanix
-   * - +49 160 / 8540279
-   * - martin.stenke@nutanix.com
+   * - Seit Februar 2020 bei Nutanix
+   * - +49 152 292 096 39
+   * - sven.willholz@nutanix.com
    
